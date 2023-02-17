@@ -1,8 +1,7 @@
 #include <studio.h>
 
 /**
- * main - prints "Programming is like building a multilingual
- * puzzle, followed by a newline.
+ * main - prints "Programming is like building a multilingual puzzle, followed by a newline."
  * Return: Always 0.
  */
 
