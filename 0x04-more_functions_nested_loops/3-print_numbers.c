@@ -1,4 +1,4 @@
-#include "3-print_numbers.c"
+#include "main.h"
 
 /**
  * print_numbers - Print the numbers since 0 up to 9
