@@ -23,4 +23,4 @@ int _pow_recursion(int x, int y)
 	}
 	else /*if y is an odd number*/
 	return (x * _pow_recursion(x, y - 1));
-}	
+}
